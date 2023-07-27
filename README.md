@@ -9,9 +9,9 @@ I want to process a payment messages we got form some resource. Message should c
 currency and amount.
 
 There are some requirements:
-1 - we process only 2 currencies: USD and EUR. 
-2 - we should pay in PLN, so, we should convert USD and EUR to PLN.
-3 - in case we try to pay more than some quota, we should reject the payment.
+1. we process only 2 currencies: USD and EUR. 
+2. we should pay in PLN, so, we should convert USD and EUR to PLN.
+3. in case we try to pay more than some quota, we should reject the payment.
 
 
 ## How to run
