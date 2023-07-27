@@ -25,16 +25,16 @@ This is not real production app. So, external calls are mocked with some constan
 ## testcases
 Happy path:
 
-1 - pay small amount in USD
-1 - pay small amount in EUR
+1. pay small amount in USD
+1. pay small amount in EUR
 
 
 Business rule limitations:
 
-1 - pay huge amount in USD
-1 - pay huge amount in EUR
-1 - pass wrong message (4 cases)
-1 - pass wrong currency
+1. pay huge amount in USD
+1. pay huge amount in EUR
+1. pass wrong message (4 cases)
+1. pass wrong currency
 
 ## Test classic approach
 
